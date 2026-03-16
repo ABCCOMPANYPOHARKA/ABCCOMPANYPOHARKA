@@ -52,6 +52,7 @@ Hi, my name is AjaX Sihag, I'm a Developer from India.
 
 ![](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif)
 <div align="center">
+  <h3 align="center">🤝Connect with Me🤝</h3>
   <a href="ABCCOMPANYPOHARKA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -76,6 +77,13 @@ Hi, my name is AjaX Sihag, I'm a Developer from India.
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+</picture>
+
 
 <br>
 <p align="right" > Created With 🧡 By AjaX Sihag</p>

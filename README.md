@@ -1,5 +1,11 @@
 <h4 align="center">Hi 👋! My name is AjaX Sihag and I'm Video Director,Hacker,Developer,CyberSecurityExpert.</h4>
 
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=ABCCOMPANYPOHARKA
+&label=Profile%20views&color=0e75b6&style=flat"  /> 
+
+</p>
+
 ###
 
 <div align="left">

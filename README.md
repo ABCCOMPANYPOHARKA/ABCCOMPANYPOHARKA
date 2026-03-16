@@ -59,4 +59,8 @@
 ![](https://komarev.com/ghpvc/?username=abccompanypoharka)  ![Followers](https://img.shields.io/github/followers/abccompanypoharka?label=Followers) ![Stars](https://img.shields.io/github/stars/abccompanypoharka?label=Stars)
 
 </div>
-###
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created With 🧡 By AjaX Sihag</p>

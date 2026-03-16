@@ -2,31 +2,29 @@
 <div align="center">
   
 ![Banner](https://cdn.pixabay.com/photo/2024/07/07/06/53/hacker-8878482_1280.png)
+</div>
 
 ```js
 "use creativity";
-import { Person } from "indonesia";
+import { Person } from "India";
 
 new Person({
-  name: "Deri Kurniawan",
-  title: "Full Stack Developer",
-  email: "hi@derikn.com",
-  website: "https://derikn.com",
-  junior: !!!false,
+  name: "AjaX Sihag",
+  ceo of: "ABC COMPANY POHARKA",
+  email: "abccompanypoharka@gmail.com",
+  website: "http://abccompanypoharka.c1.biz/",
+  professional: !!!true,
 }).introduce();
 ```
 
 ```cmd
-D:\lab\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
+C:\abc\abccompanypoharka> node index.js
+Hi, my name is AjaX Sihag, I'm a Developer from India.
 ```
-
+<div align="center">
 ![](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif)
 <h2 align="center">A Passionate Person From India</h2>
 <b align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</b>
-
-
-
 
 </div>
 

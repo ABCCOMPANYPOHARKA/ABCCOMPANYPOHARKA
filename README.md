@@ -1,7 +1,7 @@
 <h4 align="center">Hi 👋! My name is AjaX Sihag and I'm Video Director,Hacker,Developer,CyberSecurityExpert.</h4>
 <div align="center">
   
-![Banner](/assets/images/banner.png)
+![Banner](https://blog.internetvista.com/wp-content/uploads/2018/02/website-defacement.gif)
 
 ![](https://komarev.com/ghpvc/?username=abccompanypoharka)  ![Followers](https://img.shields.io/github/followers/abccompanypoharka?label=Followers) ![Stars](https://img.shields.io/github/stars/abccompanypoharka?label=Stars)
 

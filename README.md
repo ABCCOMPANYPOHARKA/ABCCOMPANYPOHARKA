@@ -2,7 +2,7 @@
 <div align="center">
   
 ![Banner](https://cdn.pixabay.com/photo/2024/07/07/06/53/hacker-8878482_1280.png)
-
+![](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif)
 <h2 align="center">A Passionate Person From India</h2>
 <b align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</b>
 
@@ -31,11 +31,7 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-###
-
-
-###
-
+![](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif)
 <div align="center">
   <a href="ABCCOMPANYPOHARKA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />

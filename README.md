@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is AjaX Sihag and I'm Video Director,Hacker,Developer,CyberSecurityExpert.</h2>
 <div align="center">
   
-![Banner](https://raw.githubusercontent.com/ABCCOMPANYPOHARKA/DeviceActivation/refs/heads/main/anigif1.gif)
+![Banner](https://raw.githubusercontent.com/ABCCOMPANYPOHARKA/DeviceActivation/refs/heads/main/anigif.gif)
 
 </div>
 

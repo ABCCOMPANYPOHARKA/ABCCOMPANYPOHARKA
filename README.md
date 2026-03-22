@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋! My name is AjaX Sihag and I'm Video Director,Hacker,Developer,CyberSecurityExpert.</h2>
 <div align="center">
   
-![Banner](https://cdn.pixabay.com/photo/2024/07/07/06/53/hacker-8878482_1280.png)
+![Banner](https://raw.githubusercontent.com/ABCCOMPANYPOHARKA/DeviceActivation/refs/heads/main/anigif1.gif)
+
 </div>
 
 
